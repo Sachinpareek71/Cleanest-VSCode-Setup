@@ -1,9 +1,9 @@
 ﻿```json
 {
   "editor.fontFamily": "Dank Mono",
-  // "editor.fontFamily": "Fragment Mono",
-  // "editor.fontFamily": "Roboto",
-  // "editor.fontWeight": "bold",
+  "editor.fontFamily": "Fragment Mono",
+  "editor.fontFamily": "Roboto",
+  "editor.fontWeight": "bold",
   "editor.fontLigatures": true,
   "editor.formatOnSave": true,
   "editor.defaultFormatter": "esbenp.prettier-vscode",
@@ -33,10 +33,11 @@
   "workbench.layoutControl.enabled": false,
   "window.commandCenter": false,
   "window.zoomLevel": 1,
-  "workbench.activityBar.visible": false,
   "files.autoSave": "afterDelay",
   "symbols.hidesExplorerArrows": false,
-  "workbench.productIconTheme": "fluent-icons"
+  "workbench.productIconTheme": "fluent-icons",
+  "workbench.activityBar.location": "side"
 }
+
 
 ```
