@@ -28,7 +28,7 @@
     "editor.accessibilitySupport": "off",
     "terminal.integrated.env.windows": {},
     "git.autofetch": true,
-    "workbench.statusBar.visible": false,
+    "workbench.statusBar.visible": true,
     "window.menuBarVisibility": "classic",
     "workbench.layoutControl.enabled": false,
     "window.commandCenter": false,
@@ -36,13 +36,16 @@
     "symbols.hidesExplorerArrows": false,
     "workbench.productIconTheme": "fluent-icons",
     "workbench.activityBar.location": "side",
-    "workbench.colorTheme": "Black Iris",
+    "workbench.colorTheme": "Irul Theme - Neelam",
     "redhat.telemetry.enabled": true,
     "code-runner.runInTerminal": true,
     "terminal.integrated.tabs.enabled": false,
     "workbench.startupEditor": "none",
     "window.zoomLevel": 1
   }
+  
+  
+
   
   
 
