@@ -36,14 +36,14 @@
   "symbols.hidesExplorerArrows": false,
   "workbench.productIconTheme": "fluent-icons",
   "workbench.activityBar.location": "default",
-  "workbench.colorTheme": "Irul Theme - Neelam",
   "redhat.telemetry.enabled": true,
   "code-runner.runInTerminal": true,
   "terminal.integrated.tabs.enabled": false,
   "workbench.startupEditor": "none",
-  "window.zoomLevel": 0.5
+  "window.zoomLevel": 0.5,
+  "php.validate.executablePath": "",
+  "workbench.colorTheme": "Andromeda Bordered"
 }
-
 
 
   
